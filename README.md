@@ -37,6 +37,8 @@ The project consists of the following files:
 
 **Example 1:**
 
+<img src="https://github.com/user-attachments/assets/294009dc-b694-4ae7-96f5-1230f15d8742" width="500px"/>
+
 ```
 3
 1 2
@@ -57,6 +59,8 @@ Given the example input above, the DFS traversal starting from vertex 0 would pr
 
 **Example 2:**
 
+<img src="https://github.com/user-attachments/assets/0e0ed1ab-477b-4596-ade4-29d3b727babc" width="500px"/>
+
 ```
 8
 1 5 6
@@ -72,6 +76,8 @@ Given the example input above, the DFS traversal starting from vertex 0 would pr
 The output here would be: `0 1 2 3 4 5 6 7`
 
 **Example 3:**
+
+<img src="https://github.com/user-attachments/assets/a2ffb943-f70e-4187-b072-1493928dff49" width="500px"/>
 
 ```
 11
